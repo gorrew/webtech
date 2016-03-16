@@ -1,0 +1,6 @@
+c:\users\gordon wong\documents\visual studio 2013\Projects\WebbTech\WebbTech\bin\WebbTech.dll.config
+c:\users\gordon wong\documents\visual studio 2013\Projects\WebbTech\WebbTech\bin\WebbTech.dll
+c:\users\gordon wong\documents\visual studio 2013\Projects\WebbTech\WebbTech\bin\WebbTech.pdb
+c:\users\gordon wong\documents\visual studio 2013\Projects\WebbTech\WebbTech\obj\Debug\WebbTech.csprojResolveAssemblyReference.cache
+c:\users\gordon wong\documents\visual studio 2013\Projects\WebbTech\WebbTech\obj\Debug\WebbTech.dll
+c:\users\gordon wong\documents\visual studio 2013\Projects\WebbTech\WebbTech\obj\Debug\WebbTech.pdb
